@@ -1,4 +1,4 @@
-# Hi, I'm Daniel 👋
+# Hi, I'm Daniel 
 
 Mechatronics Engineering graduate interested in **machine learning, computer vision, embedded systems and automation**.
 
